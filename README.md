@@ -1,0 +1,13 @@
+
+
+Compose binds unauthenticated Redis to loopback so only local demo clients can reach it.
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE).
+
+## About this repository
+
+This repository contains a focused Stubline experiment. The README documents its commands and observed results.
+
+The code and documents in this repository were written with the help of AI tools; every recorded output comes from actually running them.
