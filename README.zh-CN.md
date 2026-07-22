@@ -24,3 +24,7 @@ Compose 将无认证的 Redis 绑定到本机回环地址，仅供本地演示�
 本仓库包含一项针对 Stubline 的独立实验。README 说明运行命令与观察结果。
 
 本仓库的代码与文档借助 AI 工具编写；记录的输出都来自实际运行。
+
+## 结论
+
+实验结果及其对后端决策的影响见[FINDINGS.zh-CN.md](FINDINGS.zh-CN.md)。
